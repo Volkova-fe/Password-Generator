@@ -1,0 +1,15 @@
+@import url("../blocks/variables/variables.css");
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+@import url("../blocks/page/page.css");
+
+@import url("../blocks/container/container.css");
+
+@import url("../blocks/result-container/result-container.css");
+@import url("../blocks/result-container/__textarea/result-container__textarea.css");
+
+@import url("../blocks/setting/setting.css");
+
+@import url("../blocks/btn/btn.css");
+@import url("../blocks/buttons-container/buttons-container.css");
+

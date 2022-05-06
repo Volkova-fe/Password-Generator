@@ -1,0 +1,15 @@
+.result-container__textarea {
+	background: none;
+	border: none;
+	color: var(--color);
+	font-size: 20px;
+	margin-top: auto;
+	outline: none;
+	resize: none;
+}
+
+@media screen and (max-width: 550px) {
+	.result-container__textarea {
+		font-size: 14px;
+	}
+}

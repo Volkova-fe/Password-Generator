@@ -1,0 +1,17 @@
+.container {
+	margin: 0 auto;
+	padding: 20px;
+	width: 350px;
+	max-width: 100%;
+	background: var(--bg-color);
+	border: 12px solid var(--bg-color);
+	border-radius: 3%;
+	filter: var(--filter1);
+}
+
+@media screen and (max-width: 550px) {
+	.container {
+		width: 90%;
+		padding: 5px;
+	}
+}
