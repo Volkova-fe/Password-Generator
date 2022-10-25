@@ -20,4 +20,4 @@ ___
 ___
 
 * [Follow](https://frontendsprojects.com/)
-* [Ссылка на страницу проекта github](https://volkova-fe.github.io/password-generator)
+* [Демо-версия](https://volkova-fe.github.io/password-generator)
